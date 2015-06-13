@@ -1,0 +1,10 @@
+
+root { 
+    display: block;
+}
+.card {
+    height: 95px;
+}
+.points {
+    font-size:50px;
+}
